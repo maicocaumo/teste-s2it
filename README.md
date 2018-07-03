@@ -14,3 +14,9 @@
 
 7 - Errado
 
+8 - Classe **Exercicio8.java**  
+Classe teste **Exercicio8Test.java**
+
+9 - Classe **BinaryTree.java**  
+Classe teste **BinaryTreeTest.java**
+
